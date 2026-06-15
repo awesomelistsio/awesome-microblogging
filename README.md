@@ -52,8 +52,9 @@
 - **[Buffer](https://buffer.com/)** - Schedule and publish microblogging content across platforms.
 - **[Hootsuite](https://hootsuite.com/)** - Manage and automate microblogging campaigns.
 - **[IFTTT](https://ifttt.com/)** - Automate posting and integrations between apps and platforms.
-- **[Zapier](https://zapier.com/)** - Connect apps and automate microblogging workflows.
 - **[Publer](https://publer.io/)** - Schedule and analyze microblog posts for multiple accounts.
+- **[Xquik](https://docs.xquik.com/api-reference/overview)** - Automate X data workflows with REST API, webhooks, and MCP.
+- **[Zapier](https://zapier.com/)** - Connect apps and automate microblogging workflows.
 
 ## Analytics and Monitoring
 
